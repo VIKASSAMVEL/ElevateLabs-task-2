@@ -30,6 +30,3 @@ The report (`report.pdf`) includes:
 
 ## How to View
 Simply open `report.pdf` to explore the interactive-style visualizations and storytelling.
-
-## Notes
-This repository contains only the final report as per task submission guidelines. The underlying code and dataset are not included to maintain focus on the deliverables.
